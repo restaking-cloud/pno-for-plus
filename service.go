@@ -52,7 +52,7 @@ func NewPNOService() *PNOService {
 	}
 }
 
-func NewCommand() *cli.Command {
+func (pno *PNOService) CliCommand() *cli.Command {
 	return config.NewCommand()
 }
 
