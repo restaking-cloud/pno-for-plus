@@ -4,12 +4,11 @@ The PNO Liquid Delegation Module for MEV Plus enables liquid delegations in two 
 
 ## Tutorial
 
-To follow a tutorial for the installation of the PNO Module, please visit the [PNO Module Tutorial]().
+To follow a tutorial for the installation of the PNO Module, please visit the [PNO Module Tutorial](https://docs.restaking.cloud/nodecloud/holesky).
 
 ## Prerequisites
 
-- [MEV Plus with PNO]() module plugged in.
-Alternatively, you can install the PNO module in your existing MEV Plus software by following the [installation instructions]().
+- Install the PNO module in your existing MEV Plus software by following the [installation instructions](https://docs.restaking.cloud/nodecloud/holesky).
 
 - Eth1 Wallet: You should have an Ethereum wallet with sufficient funds to pay for gas fees. This wallet is used to pay for gas fees when interacting with the K2 and Node Operator contracts.
 
@@ -46,13 +45,6 @@ NOTE: This module also supports the use of multiple representative wallets, to m
 - `pno.k2-lending-contract-address`: The address of the K2 lending contract you wish to provide to override the default contract address for a supported network, or to provide a contract address for an unsupported network.
 
 - `pno.k2-node-operator-contract-address`: The address of the K2 node operator contract you wish to provide to override the default contract address for a supported network, or to provide a contract address for an unsupported network.
-
-## How It Works
-
-
-## Benefits for Node Runners
-
-
 
 ## Installation
 
